@@ -9,7 +9,9 @@ categories: harley-davidson
   <h3>Reinventando un clásico</h3>
   <p>La <strong>Harley-Davidson Sportster S</strong> representa el primer capítulo de una tecnología completamente nueva para la marca, combinando un rendimiento impresionante con un diseño agresivo.</p>
 
-<img src="/assets/images/sportster.jpg" alt="Harley-Davidson Sportster S" class="imagen-blog">
+
+<img src="/blog-harley-unir/assets/images/Sporster.jpg" alt="Harley-Davidson Sportster S" class="imagen-blog">
+
 
 <h4>Especificaciones destacadas:</h4>
   <ul>
